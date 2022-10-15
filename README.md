@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivam Patwa</h1>
+[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--oTCqhU8T--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/kfyk4ne0vb187mhh1o95.jpg)](https://rishavchanda.io)<h1 align="center">Hi 👋, I'm Shivam Patwa</h1>
 <h3 align="center">A passionate Data Science from India 🇮🇳</h3>
 <img align="right" alt="Coding" width="400" src="https://www.udacity.com/blog/wp-content/uploads/2014/11/Data-Science-Skills-Udacity-Matrix.png")
 
@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/mrshivampatwa" target="blank"><img src="https://img.shields.io/twitter/follow/mrshivampatwa?logo=twitter&style=for-the-badge" alt="mrshivampatwa" /></a> </p>
 
-- 🔭 I’m currently working on [minor project](I "ll shortly update)
+- 🔭 I’m currently working on [MINOR && MAJOR project](I "ll shortly update)
 
 - 🌱 I’m currently learning **Python Data scince**
 
-- 👯 I’m looking to collaborate on **Minor Project**
+- 👯 I’m looking to collaborate on **FACE DETECTION Project**
 
 - 🤝 I’m looking for help with **Python data science project**
 
@@ -21,6 +21,7 @@
 - ⚡ Fun fact **I m"Big Dump as u expected**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/mrshivampatwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrshivampatwa" height="30" width="40" /></a>
 <a href="https://kaggle.com/shivamkishor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shivamkishor" height="30" width="40" /></a>

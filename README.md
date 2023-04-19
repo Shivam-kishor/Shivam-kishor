@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/mrshivampatwa" target="blank"><img src="https://img.shields.io/twitter/follow/mrshivampatwa?logo=twitter&style=for-the-badge" alt="mrshivampatwa" /></a> </p>
 
-- 🔭 I’m currently working on [MINOR && MAJOR project](I "ll shortly update)
+- 🔭 I’m currently working on [MAJOR project](I "ll shortly update)
 
 - 🌱 I’m currently learning **Python Data scince**
 
-- 👯 I’m looking to collaborate on **FACE DETECTION Project**
+- 👯 I’m looking to collaborate on **Ml+Data science Project**
 
-- 🤝 I’m looking for help with **Python data science project**
+- 🤝 I’m looking for help with **collaboration to start a business **
 
 - 📫 How to reach me **Shivampatwa@hotmail.com**
 
-- ⚡ Fun fact **I m"Big Dump as u expected**
+- ⚡ Fun fact **I m"Big Dump as u expecte😁d**
 
 <h3 align="left">Connect with me:</h3>
 
